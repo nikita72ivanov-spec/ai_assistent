@@ -1,5 +1,11 @@
 # ИИ-ассистент для Барбершопа
 Ссылка на проект: https://t.me/BarbershopBRITVA_bot
+![Скриншот 1](https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%201.png?raw=true)
+![Скриншот 2]((https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%202.png?raw=true))
+![Скриншот 3]((https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%203.png?raw=true))
+![Скриншот 4]((https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%204.png?raw=true))
+![Скриншот 5]((https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%205.png?raw=true))
+![Скриншот 6]((https://github.com/nikita72ivanov-spec/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%206.png?raw=true))
 ## Описание проекта
 
 Проект представляет собой интеллектуального ассистента на основе искусственного интеллекта, разработанного специально для барбершопов. Цель решения — автоматизировать первичное взаимодействие с клиентами: отвечать на частые вопросы, консультировать по услугам и записывать на процедуры, минимизируя нагрузку на администраторов и повышая клиентский опыт.
